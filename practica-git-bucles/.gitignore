@@ -1,0 +1,4 @@
+# Excloure carpetes temporals de compilació i configuracions visuals
+target/
+.vscode/
+*.class
